@@ -6,6 +6,6 @@
 
 중앙 제어 시스템으로 창고 상태 확인, 라인트레이서의 이동중인 경로 표시.
 
-![_](https://user-images.githubusercontent.com/42165224/51178508-1edfea80-1906-11e9-9062-2af2fd793023.PNG)
+![_](https://user-images.githubusercontent.com/42165224/51178628-74b49280-1906-11e9-82b5-4985ebbc7cde.PNG)
 
 ![default](https://user-images.githubusercontent.com/42165224/51178556-42a33080-1906-11e9-864f-72910841681d.PNG)
